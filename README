@@ -8,11 +8,11 @@ This is the
 ███████╗██║╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║   ██║   ███████║
 ╚══════╝╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝®
 
-DEM simulation engine, initially released by 
+DEM simulation engine, initially released by
 DCS Computing Gmbh, Linz, Austria
 www.dcs-computing.com, office@dcs-computing.com
 
-LIGGGHTS® is open-source, distributed under the terms of the GNU Public 
+LIGGGHTS® is open-source, distributed under the terms of the GNU Public
 License, version 2 or later.
 ----------------------------------------------------------------------
 This version of LIGGGHTS is modified for the use in Research Projects
@@ -27,11 +27,8 @@ following key features:
 4.	Rigid body dynamics
 
 Key contact person:
-Dr Wei Chen, W.Chen@newcastle.edu.au
-Dr Tim Donohue, Timorthy.Donohue@newcastle.edu.au
+Dr Wei Chen, w.chentbs@gmail.com
 
-TUNRA BULK SOLIDS
-http://www.bulksolids.com.au
 ----------------------------------------------------------------------
 
 The LIGGGHTS® distribution includes the following files and directories:
@@ -54,7 +51,7 @@ doc/Section_start.html	   how to build and use
 
 Some parts of LIGGGHTS® are based on LAMMPS
 LAMMPS stands for Large-scale Atomic/Molecular Massively Parallel
-Simulator. 
+Simulator.
 
 LAMMPS is Copyright (2003) Sandia Corporation.  Under the terms of Contract
 DE-AC04-94AL85000 with Sandia Corporation, the U.S. Government retains
